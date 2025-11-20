@@ -2,7 +2,7 @@
 **Frontend Developer** 
 ## Contact Information
 📧 immelnikovadaria@inbox.ru  
-💻 [GitHub](https://github.com/zagorky)  
+💻 [GitHub](https://github.com/dashque)  
 ✈️ Telegram/Discord: @zagorky  
 
 ---
@@ -73,7 +73,7 @@ Angular | React  | Next.js
 **REST Client App** | September 2025  
 
 *REST API client*  
-[Project Link](https://github.com/zagorky/rest-client-app)  
+[Project Link](https://github.com/dashque/rest-client-app)  
 
 **Key Responsibilities & Achievements:**
 
@@ -89,7 +89,7 @@ Angular | React  | Next.js
 **Second Chapter Bookstore** | April 2025 - Present  
 
 *E-commerce platform for used books (commercetools-based)*  
-[Project Link](https://github.com/zagorky/second-chapter)  
+[Project Link](https://github.com/dashque/second-chapter)  
 
 **Key Responsibilities & Achievements:** 
 
@@ -124,4 +124,4 @@ Lobachevsky State University | 2024
 - **Location Preference:** Remote only (Nizhny Novgorod-based)  
 - **Background:** Former Purchasing Director transitioning to tech  
 - **Learning:** 40+ hours/week dedicated to skill development  
-*Portfolio available at [github.com/zagorky](https://github.com/zagorky)*  
+*Portfolio available at [github.com/dashque](https://github.com/dashque)*  
