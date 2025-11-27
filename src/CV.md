@@ -62,11 +62,14 @@ Angular | React  | Next.js
 
 - Develop and maintain user interface components for a dynamic AI documentation platform using React and TypeScript.
 - Implement rich text editing features and collaborative functionality using TipTap editor.
-- Build interactive whiteboard and canvas-based elements using TLDraw library.
-- Added CI/CD pipeline.
+- Maintained and enhanced Mermaid diagram plugin.
 - Conceived and implemented a feature to seamlessly embed and render interactive Swagger documentation from OpenAPI specs (via JSON or URL), significantly improving the platform's capability to display and test API references directly within user documentation.
+- Improved CI/CD pipelines.
+- Enhanced whiteboard/canvas functionality built with TLDraw.
+- Added functionality for uploading entire projects as ZIP archives, enabling automatic generation of documentation from project source files.
+- Increased stability and performance of the file tree: reduced unnecessary re-renders, optimized state updates, and significantly improved drag-and-drop behavior for file operations.
 
-**Tech Stack:** React, TypeScript, Tailwind CSS, Hero UI, Zustand, React Router, TipTap, TLDraw
+**Tech Stack:** React, TypeScript, Tailwind CSS, Hero UI, Zustand, React Router, TipTap, TLDraw, Mermaid
 
 ### Frontend Developer  
 
