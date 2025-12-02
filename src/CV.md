@@ -1,130 +1,77 @@
-# Daria Melnikova  
-**Frontend Developer** 
+# Daria Melnikova
+**Frontend Developer**
+
 ## Contact Information
-📧 immelnikovadaria@inbox.ru  
-💻 [GitHub](https://github.com/dashque)  
-✈️ Telegram/Discord: @zagorky  
+📧 immelnikovadaria@inbox.ru | 💻 [GitHub](https://github.com/dashque) | ✈️ @zagorky
 
 ---
-## Professional Summary  
-Frontend Developer with practical experience building applications using React, TypeScript, and modern tooling. A former business manager with proven leadership and problem-solving abilities, now focused on creating high-quality, accessible web solutions. A dedicated self-learner committed to continuous skill development.
 
-**Core Competencies:**  
-### Frontend Development & Architecture
-
-- React & TypeScript Development
-- State Management (Zustand, Jotai) & Data Fetching (SWR, TanStack Query)
-- Modern Build Tools (Vite) and CI/CD Pipelines (GitHub Actions)
-- Performance Optimization (Lazy Loading, Caching)
-- Testing & Code Quality (Vitest, React Testing Library, ESLint, Prettier)
-
-### Leadership & Soft Skills
-
-- Agile Team Leadership & Mentoring
-- Problem-Solving & Analytical Thinking
-- Project Ownership & Process Improvement
-- Rapid Learning & Adaptability
+## Professional Summary
+Frontend Developer with practical experience building applications using React, TypeScript, and modern tooling. Former business manager with proven leadership and problem-solving abilities, now focused on creating high-quality, accessible web solutions.
 
 ---
-## Technical Skills  
 
-**Frontend Development:**  
+## Technical Skills
 
-React | TypeScript | JavaScript (ES6+) | HTML5 | CSS3/SASS | Tailwind CSS  
+**Frontend:** React, Next.js, TypeScript, JavaScript, HTML5, CSS3/SASS, Tailwind CSS
 
-**Libraries:**  
+**Libraries:** Zustand, Jotai, SWR, Tanstack Query, React Hook Form, React Router
 
-Zustand | Jotai | SWR | Tanstack Query | Tanstack Router | React Hook Form  | React Router(Remix)
+**Testing:** Vitest, React Testing Library, ESLint, Prettier, Biome, SonarQube
 
-**Testing & Quality:**  
-
-Vitest | React Testing Library | ESLint | Prettier | Biome | Stylelint | SonarQube | Commitlint | Stylelint
-
-**Workflow & Tools:**  
-
-Vite | WebStorm | Git/GitHub/GitHub Actions | Husky | lint-staged | Netlify | Vercel | Figma 
-
-**Currently Learning:**  
-
-Angular | React  | Next.js 
+**Tools:** Vite, Git, GitHub Actions, Husky, Netlify, Vercel, Figma
 
 ---
-## Professional Experience  
+
+## Professional Experience
 
 ### Frontend Developer
+**NextDocs.ai** | August 2024 – Present
+*AI-powered documentation platform* | [nextdocs.ai](https://nextdocs.ai/)
 
-**NextDocs.ai** | August 2025 – Present
-
-*AI-powered documentation platform*  
-[Project Link](https://nextdocs.ai/)
-
-**Key Responsibilities & Achievements:**
-
-- Develop and maintain user interface components for a dynamic AI documentation platform using React and TypeScript.
-- Implement rich text editing features and collaborative functionality using TipTap editor.
-- Maintained and enhanced Mermaid diagram plugin.
-- Conceived and implemented a feature to seamlessly embed and render interactive Swagger documentation from OpenAPI specs (via JSON or URL), significantly improving the platform's capability to display and test API references directly within user documentation.
-- Improved CI/CD pipelines.
-- Enhanced whiteboard/canvas functionality built with TLDraw.
-- Added functionality for uploading entire projects as ZIP archives, enabling automatic generation of documentation from project source files.
-- Increased stability and performance of the file tree: reduced unnecessary re-renders, optimized state updates, and significantly improved drag-and-drop behavior for file operations.
+- Developed UI components for AI documentation platform using React and TypeScript
+- Implemented rich text editing features with Notion-like(TipTap) editor and collaborative functionality
+- Enhanced Mermaid diagram plugin and TLDraw whiteboard functionality
+- Created Swagger documentation embedding feature from OpenAPI specs
+- **Reduced bundle size by 30% through dependency optimization and code splitting**
+- **Reorganized project dependencies, eliminating redundant packages and improving build performance**
+- Increased file tree stability: reduced re-renders, optimized state updates
+- Added ZIP archive upload for automatic documentation generation
+- Improved CI/CD pipelines and increased test coverage from 0% to 40%
 
 **Tech Stack:** React, TypeScript, Tailwind CSS, Hero UI, Zustand, React Router, TipTap, TLDraw, Mermaid
 
-### Frontend Developer  
+### Team Lead & Frontend Developer
+**Second Chapter Bookstore** | April 2024 - August 2024
+*E-commerce platform for used books (commercetools-based)* | [GitHub](https://github.com/dashque/second-chapter)
 
-**REST Client App** | September 2025  
+- Led development team as part-time Scrum Master
+- Implemented product catalog with filtering/sorting and routing
+- Optimized performance with lazy loading, Suspense, and caching strategies
+- Established CI/CD pipeline
 
-*REST API client*  
-[Project Link](https://github.com/dashque/rest-client-app)  
+**Tech Stack:** React, TypeScript, Tailwind, Zustand, SWR, Vitest
 
-**Key Responsibilities & Achievements:**
+### Frontend Developer
+**REST Client App** | June 2024 - October 2024
+*REST API client* | [GitHub](https://github.com/dashque/rest-client-app)
 
-- Developed a REST API client using React and TypeScript.  
-- Added support for using variables in request URLs and request bodies.  
-- Implemented landing page
-- Added sign-in and sign-up functionality.  
+- Developed REST API client using React and TypeScript
+- Added support for variables in request URLs and bodies
+- Implemented authentication, landing page, and core API functionality
 
 **Tech Stack:** NextJS, React, TypeScript, Tailwind CSS, React Hook Form, Convex, Chakra UI, Jotai
 
-### Team Lead & Frontend Developer  
+---
 
-**Second Chapter Bookstore** | April 2025 - Present  
-
-*E-commerce platform for used books (commercetools-based)*  
-[Project Link](https://github.com/dashque/second-chapter)  
-
-**Key Responsibilities & Achievements:** 
-
-- Led development team as part-time Scrum Master  
-- Implemented core features: product catalog (filtering/sorting), and routing  
-- Optimized performance with lazy loading, Suspense, and caching strategies  
-- Established CI/CD pipeline  
-
-**Tech Stack:** React, TypeScript, Tailwind, Zustand, SWR, Vitest  
+## Education & Certification
+**React Course** - Rolling Scopes School | 2025 (Ranked #1)
+**JavaScript/Frontend Course** - Rolling Scopes School | 2024-2025 (Ranked #8)
+**JavaScript Professional Course** - Lobachevsky State University | 2023
 
 ---
-## Education & Certification  
 
-**React Course**
-
-Rolling Scopes School | 2025
-- Ranked in top 1 of competitive program
-
-**JavaScript/Frontend Course**  
-
-Rolling Scopes School | 2024-2025  
-- Ranked in top 8 of competitive program  
-
-**JavaScript Professional Course**  
-
-Lobachevsky State University | 2024  
-
----
-## Additional Information  
-
-- **Languages:** Russian (Native), English (Intermediate B1)  
-- **Location Preference:** Remote only (Nizhny Novgorod-based)  
-- **Background:** Former Purchasing Director transitioning to tech  
-- **Learning:** 40+ hours/week dedicated to skill development  
-*Portfolio available at [github.com/dashque](https://github.com/dashque)*  
+## Additional Information
+- **Languages:** Russian (Native), English (Intermediate B1)
+- **Background:** Former Purchasing Director transitioning to tech
+- **Portfolio:** [github.com/dashque](https://github.com/dashque)  
