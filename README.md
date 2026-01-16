@@ -32,6 +32,7 @@ I'm **Daria** and currently learning Vue and NodeJs
 ![Radix UI](https://img.shields.io/badge/Radix_UI-%23333A45.svg?style=for-the-badge&logo=radix-ui&logoColor=%23EC4899)
 ![Shadcn UI](https://img.shields.io/badge/shadcn-%23333A45.svg?style=for-the-badge&logo=shadcnui&logoColor=%23EC4899)
 ![PrimeNG](https://img.shields.io/badge/PrimeNG-%23333A45.svg?style=for-the-badge&logo=angular&logoColor=%23EC4899)
+![Anguler Material](https://img.shields.io/badge/Angular_Material-%23333A45.svg?style=for-the-badge&logo=angular&logoColor=%23EC4899)
 ![Hero UI](https://img.shields.io/badge/Hero_UI-%23333A45.svg?style=for-the-badge&logo=heroui&logoColor=%23EC4899)
 ![Chakra UI](https://img.shields.io/badge/Chakra_UI-%23333A45.svg?style=for-the-badge&logo=chakra-ui&logoColor=%23EC4899)
 
@@ -52,6 +53,7 @@ I'm **Daria** and currently learning Vue and NodeJs
 ![Commitlint](https://img.shields.io/badge/Commitlint-%23333A45.svg?style=for-the-badge&logo=git&logoColor=%23EC4899)
 ## 🧪 Testing
 ![Vitest](https://img.shields.io/badge/Vitest-%23333A45.svg?style=for-the-badge&logo=vitest&logoColor=%23EC4899)
+![Jest](https://img.shields.io/badge/Jest-%23333A45.svg?style=for-the-badge&logo=jest&logoColor=%23EC4899)
 ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-%23333A45.svg?style=for-the-badge&logo=testing-library&logoColor=%23EC4899)
 ## 🔑 Validation
 ![Zod](https://img.shields.io/badge/Zod-%23333A45.svg?style=for-the-badge&logo=zod&logoColor=%23EC4899)

@@ -3,15 +3,22 @@
 ## Contact Information
 📧 immelnikovadaria@inbox.ru | 💻 [GitHub](https://github.com/dashque) | ✈️ @zagorky
 ## Professional Summary
-Frontend Developer with practical experience building applications using React, TypeScript, and modern tooling. Former business manager with proven leadership and problem-solving abilities, now focused on creating high-quality, accessible web solutions.
+Frontend Developer with practical experience building applications using React, Angular, TypeScript, and modern tooling. Former business manager with proven leadership and problem-solving abilities, now focused on creating high-quality, accessible web solutions.
 ## Technical Skills
-**Frontend:** React, Next.js, TypeScript, JavaScript, HTML5, CSS3/SASS, Tailwind CSS  
+**Frontend:** Angular, React, Next.js, TypeScript, JavaScript, HTML5, CSS3/SCSS, Tailwind CSS  
 **Libraries:** Zustand, Jotai, SWR, Tanstack Query, React Hook Form, React Router  
-**Testing:** Vitest, React Testing Library, ESLint, Prettier, Biome, SonarQube  
+**Testing:** Vitest, Jest, React Testing Library, ESLint, Prettier, Biome, SonarQube  
 **Tools:** Vite, Git, GitHub Actions, Husky, Netlify, Vercel, Figma
 ## Professional Experience
 ### Frontend Developer
-**NextDocs.ai** | August 2024 – Present  
+**Monosoft** | December 2025 – Present  
+*Aviation software development company*
+- Maintaining and developing user interfaces
+- Working on enterprise-level applications under NDA  
+  **Tech Stack:** Angular 20, Angular Material TypeScript
+
+### Frontend Developer
+**NextDocs.ai** | August 2024 – November 2025  
 *AI-powered documentation platform* | [nextdocs.ai](https://nextdocs.ai/)
 - Developed UI components for AI documentation platform using React and TypeScript
 - Implemented rich text editing features with Notion-like(TipTap) editor and collaborative functionality
