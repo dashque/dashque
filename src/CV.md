@@ -15,7 +15,7 @@ Frontend Developer with practical experience building applications using React, 
 *Aviation software development company*
 - Maintaining and developing user interfaces
 - Working on enterprise-level applications under NDA  
-  **Tech Stack:** Angular 20, Angular Material TypeScript
+  **Tech Stack:** Angular 20, Angular Material, TypeScript
 
 ### Frontend Developer
 **NextDocs.ai** | August 2024 – November 2025  
