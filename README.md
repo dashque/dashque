@@ -1,5 +1,5 @@
 # 🧌 About Me:
-I'm **Daria**
+I'm **Daria**  
 [![My CV](https://img.shields.io/badge/My_CV_😊-%23333A45.svg?style=for-the-badge&logo=&logoColor=%23EC4899&labelColor=333A45)](src/CV.md)
 
 ## 📞👂🏻 Socials:
