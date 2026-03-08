@@ -16,7 +16,7 @@ Frontend Developer with practical experience building applications using React, 
 **Details under NDA**
  - Developed and maintained web applications using Angular 20 and TypeScript for airport automation systems, including real-time data visualization for air traffic management and aeronautical information services. 
  - Implemented responsive UI components with modern design patterns (facade and repository patterns).
- - Conducted unit testing with Jest, achieving 98% code coverage. 
+ - Conducted unit testing with Jest, achieving 98% code coverage.  
 **Tech Stack:** Angular 20, RxJS, Angular Material, Jest, RxJs, NgRx store. 
 ### Frontend Developer
 **NextDocs.ai** | August 2024 – November 2025  
