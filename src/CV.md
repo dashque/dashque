@@ -14,7 +14,6 @@ Frontend Developer with practical experience building applications using React, 
 **Monitor-Soft** | December 2025 - Present
 *Airport automation systems & aeronautical information services*  
 **Details under NDA**
-**Key Responsibilities & Achievements:**
  - Developed and maintained web applications using Angular 20 and TypeScript for airport automation systems, including real-time data visualization for air traffic management and aeronautical information services. 
  - Implemented responsive UI components with modern design patterns (facade and repository patterns).
  - Conducted unit testing with Jest, achieving 98% code coverage. 
