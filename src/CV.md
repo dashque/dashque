@@ -8,14 +8,14 @@ Frontend Developer with practical experience building applications using React, 
 **Frontend:** Angular, React, Next.js, TypeScript, JavaScript, HTML5, CSS3/SCSS, Tailwind CSS  
 **Libraries:** Zustand, Jotai, SWR, Tanstack Query, React Hook Form, React Router  
 **Testing:** Vitest, Jest, React Testing Library, ESLint, Prettier, Biome, SonarQube  
-**Tools:** Vite, Git, GitHub Actions, Husky, Netlify, Vercel, Figma
+**Tools:** Vite, Git, GitHub Actions, Husky, Netlify, Vercel, Figma, Firebase, Supabase
 ## Professional Experience
 ### Frontend Developer
-**Monosoft** | December 2025 – Present  
+**Monitorsoft** | December 2025 – Present  
 *Aviation software development company*
 - Maintaining and developing user interfaces
 - Working on enterprise-level applications under NDA  
-  **Tech Stack:** Angular 20, Angular Material, TypeScript
+  **Tech Stack:** Angular 20, Angular Material, TypeScript, RxJs, Jest
 
 ### Frontend Developer
 **NextDocs.ai** | August 2024 – November 2025  
@@ -46,6 +46,7 @@ Frontend Developer with practical experience building applications using React, 
 - Implemented authentication, landing page, and core API functionality  
   **Tech Stack:** NextJS, React, TypeScript, Tailwind CSS, React Hook Form, Convex, Chakra UI, Jotai
 ## Education & Certification
+**Angular Course** - Rolling Scopes School | 2026 (Ranked #1)
 **React Course** - Rolling Scopes School | 2025 (Ranked #1)  
 **JavaScript/Frontend Course** - Rolling Scopes School | 2024-2025 (Ranked #8)  
 **JavaScript Professional Course** - Lobachevsky State University | 2023
